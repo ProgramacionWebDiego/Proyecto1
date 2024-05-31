@@ -1,0 +1,7 @@
+Todos los archivos deben de ser cambiado y modificados a su base de datos, para 
+que hagaq un conexion bien, enseguida dejamos el documento de base de datos, 
+para que na mas la inporte y se ahorre tiempo
+
+1. Abre la Carpeta ConexionSQL
+2. Importa el archivo a tu base de datos.
+3. Y automaticamente se te creara la base de datos.
